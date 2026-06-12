@@ -39,7 +39,8 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **Norton’s equivalent circuit**
 
-<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/d3c0d03f-5aff-4cfa-88c0-3d757c5db01f" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/ae9189b7-cde6-4b39-aa62-5d49e1f4e941" />
+
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/04af2885-d397-4f74-bbc9-43b9eb3f76b6" />
 
 **PROCEDURE:**
